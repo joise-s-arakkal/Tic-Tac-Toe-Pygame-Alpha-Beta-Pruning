@@ -19,3 +19,8 @@ You can install Pygame using pip:
 
 ```bash
 pip install pygame
+```
+
+## Gameplay
+
+![Gameplay GIF](Game_Play.gif)
