@@ -23,4 +23,4 @@ pip install pygame
 
 ## Gameplay
 
-![Gameplay GIF](Game_Play.gif)
+![Gameplay GIF](/Game_Play.gif)
