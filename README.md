@@ -1,12 +1,13 @@
-# Tic Tac Toe Game
+# Tic-Tac-Toe with Alpha-Beta Pruning
 
-A simple Tic Tac Toe game implemented in Python using the Pygame library. The game features a graphical user interface (GUI) with animations, a computer opponent with basic AI, and a retry button for a new game.
+A simple Tic-Tac-Toe game implemented in Python using the Pygame library. This project features an AI opponent powered by the Alpha-Beta Pruning algorithm, making it a challenging game for players.
 
 ## Features
 
-- **Two-Player Mode:** Play against another human player.
-- **Single Player Mode:** Play against a computer with basic AI.
+- **Interactive Tic-Tac-Toe Board:** Play against an AI opponent or test your skills with a retry option.
+- **AI with Alpha-Beta Pruning:** The computer opponent uses the Alpha-Beta Pruning algorithm to make strategic moves.
 - **Animations:** Highlighted cells when clicked and visual effects for winning moves.
+- **Graphical User Interface:** Built with Pygame for a visually appealing experience.
 - **Retry Button:** Restart the game without closing the application.
 
 ## Requirements
