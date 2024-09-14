@@ -23,4 +23,4 @@ pip install pygame
 
 ## Gameplay
 
-![Gameplay GIF](/Game_Play.gif)
+![Gameplay GIF](https://github.com/R929RRJQ/Tic-Tac-Toe-Pygame-Alpha-Beta-Pruning/blob/main/Game_Play.gif)
