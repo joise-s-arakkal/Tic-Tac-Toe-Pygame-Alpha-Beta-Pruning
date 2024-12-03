@@ -1,6 +1,7 @@
 # Tic-Tac-Toe with Alpha-Beta Pruning
 
-A simple Tic-Tac-Toe game implemented in Python using the Pygame library. This project features an AI opponent powered by the Alpha-Beta Pruning algorithm, making it a challenging game for players. Try playing it on [Tic Tac Toe](https://joise-s-arakkal.github.io/Tic-Tac-Toe-Pygame-Alpha-Beta-Pruning/) 🎮
+A simple Tic-Tac-Toe game implemented in Python using the Pygame library. This project features an AI opponent powered by the Alpha-Beta Pruning algorithm, making it a challenging game for players. Try playing it on <br>
+[Tic Tac Toe](https://joise-s-arakkal.github.io/Tic-Tac-Toe-Pygame-Alpha-Beta-Pruning/) 🎮
 
 ## Features
 
